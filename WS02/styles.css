@@ -1,0 +1,57 @@
+body {
+    margin: 20px;
+    padding: 15px;
+}
+
+h2 {
+    margin-top: 30px;
+    padding-bottom: 10px;
+}
+
+p {
+    color: white;
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 60%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #333333;
+    color: white;
+}
+
+td {
+    background-color: white;
+    color: black;
+}
+
+input {
+    padding: 8px;
+    margin: 5px;
+    border: 1px solid #555555;
+    border-radius: 4px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #333333;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
